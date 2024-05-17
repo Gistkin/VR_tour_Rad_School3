@@ -1,0 +1,16 @@
+#: locale=ru
+
+## Media
+
+### Title
+panorama_750435B0_7EA2_80D3_41A9_F52129853BC4.label = 1 помещение
+panorama_73C10C91_7EA3_80D5_41BF_EA7FA555DDD6.label = 1 этаж
+panorama_7572EEB6_7EA5_80DF_41D1_27B1D31F81D0.label = 2 помещене
+panorama_7544EABE_7EA5_80CF_41DA_72B9382D9B67.label = 2 этаж
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
